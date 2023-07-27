@@ -20,7 +20,8 @@ const styles = StyleSheet.create({
     container: {
         flexDirection: 'row',
         alignItems: 'center',
-        marginBottom: 54
+        marginBottom: 54,
+        marginTop: 50
     },
     image: {
         width: 18,
